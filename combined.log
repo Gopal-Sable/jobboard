@@ -1,0 +1,253 @@
+{"code":"EAUTH","command":"AUTH PLAIN","level":"error","message":"Registration error: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2e5ad25d01csm1159350a91.8 - gsmtp","response":"534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2e5ad25d01csm1159350a91.8 - gsmtp","responseCode":534,"stack":"Error: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2e5ad25d01csm1159350a91.8 - gsmtp\n    at SMTPConnection._formatError (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection._actionAUTHComplete (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1586:34)\n    at SMTPConnection.<anonymous> (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n    at SMTPConnection._processResponse (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n    at SMTPConnection._onSocketData (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)\n    at TLSSocket.emit (node:events:513:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"code":"EAUTH","command":"AUTH PLAIN","level":"error","message":"Registration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20e7f0d9b7esm7834615ad.188 - gsmtp","response":"535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20e7f0d9b7esm7834615ad.188 - gsmtp","responseCode":535,"stack":"Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20e7f0d9b7esm7834615ad.188 - gsmtp\n    at SMTPConnection._formatError (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection._actionAUTHComplete (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1586:34)\n    at SMTPConnection.<anonymous> (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n    at SMTPConnection._processResponse (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n    at SMTPConnection._onSocketData (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)\n    at TLSSocket.emit (node:events:513:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)"}
+{"code":"EAUTH","command":"AUTH PLAIN","level":"error","message":"Registration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e5ad25c227sm1183502a91.6 - gsmtp","response":"535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e5ad25c227sm1183502a91.6 - gsmtp","responseCode":535,"stack":"Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e5ad25c227sm1183502a91.6 - gsmtp\n    at SMTPConnection._formatError (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection._actionAUTHComplete (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1586:34)\n    at SMTPConnection.<anonymous> (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n    at SMTPConnection._processResponse (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n    at SMTPConnection._onSocketData (E:\\react webdevelopment\\job-posting-board\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)\n    at TLSSocket.emit (node:events:513:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"address":"199.26.87.141","code":"ESOCKET","command":"CONN","errno":-4039,"level":"error","message":"Registration error: connect ETIMEDOUT 199.26.87.141:456","port":456,"stack":"Error: connect ETIMEDOUT 199.26.87.141:456\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect"}
+{"address":"199.26.87.141","code":"ESOCKET","command":"CONN","errno":-4039,"level":"error","message":"Registration error: connect ETIMEDOUT 199.26.87.141:456","port":456,"stack":"Error: connect ETIMEDOUT 199.26.87.141:456\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Login error: Illegal arguments: undefined, string","stack":"Error: Illegal arguments: undefined, string\n    at _async (E:\\react webdevelopment\\job-posting-board\\node_modules\\bcryptjs\\dist\\bcrypt.js:286:46)\n    at E:\\react webdevelopment\\job-posting-board\\node_modules\\bcryptjs\\dist\\bcrypt.js:307:17\n    at new Promise (<anonymous>)\n    at bcrypt.compare (E:\\react webdevelopment\\job-posting-board\\node_modules\\bcryptjs\\dist\\bcrypt.js:306:20)\n    at E:\\react webdevelopment\\job-posting-board\\routes\\auth.js:77:34\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'replace')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'replace')"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Registration error: Vbfzpw1uHq6mspvpPb is not defined","stack":"ReferenceError: Vbfzpw1uHq6mspvpPb is not defined\n    at sendEmail (E:\\react webdevelopment\\job-posting-board\\config\\email.js:14:13)\n    at E:\\react webdevelopment\\job-posting-board\\routes\\auth.js:28:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Registration error: testAccount is not defined","stack":"ReferenceError: testAccount is not defined\n    at sendEmail (E:\\react webdevelopment\\job-posting-board\\config\\email.js:23:37)\n    at E:\\react webdevelopment\\job-posting-board\\routes\\auth.js:28:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"error","message":"MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"127.0.0.1:27017":{"$clusterTime":null,"address":"127.0.0.1:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":76179963,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (E:\\react webdevelopment\\job-posting-board\\node_modules\\mongoose\\lib\\connection.js:909:11)\n    at NativeConnection.openUri (E:\\react webdevelopment\\job-posting-board\\node_modules\\mongoose\\lib\\connection.js:860:11)\n    at async connectDB (E:\\react webdevelopment\\job-posting-board\\config\\db.js:7:5)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"error","message":"MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"127.0.0.1:27017":{"$clusterTime":null,"address":"127.0.0.1:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":76569215,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (E:\\react webdevelopment\\job-posting-board\\node_modules\\mongoose\\lib\\connection.js:909:11)\n    at NativeConnection.openUri (E:\\react webdevelopment\\job-posting-board\\node_modules\\mongoose\\lib\\connection.js:860:11)\n    at async connectDB (E:\\react webdevelopment\\job-posting-board\\config\\db.js:7:5)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"MongoDB connected"}
